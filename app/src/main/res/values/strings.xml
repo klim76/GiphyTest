@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GiphyApp</string>
+    <string name="action_settings">Выход</string>
+    <string name="key_API">dc6zaTOxFJmzC</string>
+</resources>
